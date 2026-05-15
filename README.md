@@ -4,7 +4,7 @@
 
 This repository contains a structured bibliographic dataset of all known works of Sheikh Yusuf Lokoja, developed as part of academic research on the digital cataloguing and preservation of Islamic scholarly writings in Nigeria.
 
-The records were compiled from documentary sources and organized using a relational database approach. The original data were transformed from unstructured documents into structured tables through SQL queries, then exported into Excel and saved in CSV format to ensure accessibility, reuse, and long term preservation.
+The records were compiled from the TijProj Catalogue (collected by Professor Andrea Brigaglia), and organized using a relational database approach. The original data were transformed from unstructured documents into structured tables through SQL queries, then exported into Excel and saved in CSV format to ensure accessibility, reuse, and long term preservation.
 
 The dataset captures key bibliographic information including title of work, author attribution, subject classification, language, publication details, and source references. It serves as a digital catalog dedicated specifically to the scholarly contributions of Sheikh Yusuf Lokoja.
 
